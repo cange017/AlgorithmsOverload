@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 51e66b102b7a0e447b1812a79e5d627f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Red Thinker
+  fontNames:
+  - Red Thinker
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 184e7dd74351930449edaa5ab2ffc9c4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
