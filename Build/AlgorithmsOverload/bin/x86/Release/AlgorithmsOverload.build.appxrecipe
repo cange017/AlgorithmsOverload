@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>df55ad25-e59f-4e04-8a53-992d704bfc55</PackageIdentityName>
     <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\obj\x86\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\obj\x86\Release\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\bin\x86\Release\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\bin\x86\Release\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\bin\x86\Release\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\bin\x86\Release\AlgorithmsOverload.exe">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\bin\x86\Release\AlgorithmsOverload.exe">
       <PackagePath>entrypoint\AlgorithmsOverload.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lab\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
@@ -349,7 +349,7 @@
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineProxy.dll">
       <PackagePath>UnityEngineProxy.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Unprocessed\WinRTLegacy.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Unprocessed\WinRTLegacy.dll">
       <PackagePath>WinRTLegacy.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.dll">
@@ -373,254 +373,257 @@
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\WinRTBridge.winmd">
       <PackagePath>WinRTBridge.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Resource.res">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Resource.res">
       <PackagePath>Resource.res</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\PlaneFinding.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\PlaneFinding.dll">
       <PackagePath>PlaneFinding.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\MicStreamSelector.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\MicStreamSelector.dll">
       <PackagePath>MicStreamSelector.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\GpuTiming.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\GpuTiming.dll">
       <PackagePath>GpuTiming.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\SharingClient.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\SharingClient.dll">
       <PackagePath>SharingClient.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\SpatialUnderstanding.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\SpatialUnderstanding.dll">
       <PackagePath>SpatialUnderstanding.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Data\boot.config">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Data\globalgamemanagers">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Data\level0">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Data\level0">
       <PackagePath>Data\level0</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Data\Resources\unity default resources">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Data\Resources\unity_builtin_extra">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Data\globalgamemanagers.assets">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Data\sharedassets0.assets">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Data\managedAssemblies.txt">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Data\nativePlugins.txt">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Data\sharedassets0.assets.resS">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Data\sharedassets0.resource">
+      <PackagePath>Data\sharedassets0.resource</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\bin\x86\Release\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.TextRenderingModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.TerrainPhysicsModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.TerrainModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.TilemapModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UIElementsModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.SharedInternalsModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.ScreenCaptureModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.SpriteMaskModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.StyleSheetsModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.SpriteShapeModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.VideoModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.VehiclesModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UnityWebRequestWWWModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.VRModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.WindModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.WebModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UnityAnalyticsModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UNETModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UIModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UnityConnectModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UnityWebRequestTextureModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UnityWebRequestModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UnityWebRequestAudioModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.AudioModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.AssetBundleModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.ARModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.ClothModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.DirectorModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.CrashReportingModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.CoreModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Assembly-CSharp.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.AnimationModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.AIModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.AccessibilityModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.ParticlesLegacyModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.JSONSerializeModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.ParticleSystemModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.PhysicsModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.Physics2DModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.PerformanceReportingModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.GridModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.GameCenterModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.InputModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.IMGUIModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.ImageConversionModule.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.Timeline.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\nunit.framework.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UI.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.SpatialTracking.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.HoloLens.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.StandardEvents.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.Networking.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\GLTFSerializationUWP.dll">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\GLTFSerializationUWP.dll">
       <PackagePath>GLTFSerializationUWP.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\Build\AlgorithmsOverload\bin\x86\Release\Core\AlgorithmsOverload.exe">
+    <AppxPackagedFile Include="C:\Users\Lab\Documents\Catherine%27s Projects\AlgorithmsOverload\AlgorithmsOverload\Build\AlgorithmsOverload\bin\x86\Release\Core\AlgorithmsOverload.exe">
       <PackagePath>AlgorithmsOverload.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

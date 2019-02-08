@@ -1,6 +1,6 @@
 Metro
 PlayerPath?
-C:/Users/Lab/Documents/Catherine's Projects/AlgorithmsOverload/Build
+C:/Users/Lab/Documents/Catherine's Projects/AlgorithmsOverload/AlgorithmsOverload/Build
 SceneListBegin?
 Assets/AlgorithmsOverload/Scenes/Main_Menu.unity
 SceneListEnd?

@@ -5,12 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/AlgorithmsOverload/Scenes/Home.unity
-    guid: 76b4aca240eff1844a5b0509b5baaec1
-  - enabled: 0
-    path: Assets/HoloToolkit-Examples/Prototyping/Scenes/ClickThroughExample.unity
-    guid: 24e0df9a7b63a604eace8f882d39e98b
   - enabled: 1
     path: Assets/AlgorithmsOverload/Scenes/Main_Menu.unity
     guid: e43d729f66db3a54a9c1e5c3c5ffc075
