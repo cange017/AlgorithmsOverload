@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/AlgorithmsOverload/Scenes/Main_Menu.unity
+- path: Assets/AlgorithmsOverload/Scenes/Main_Menu 1.unity
   isLoaded: 1
   isActive: 1
